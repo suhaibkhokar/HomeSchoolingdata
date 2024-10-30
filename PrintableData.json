@@ -1,52 +1,46 @@
-export const PrintableData = [
-
-    {
-        button: require("../pdfs/printables/A-Z tracing Alphabet Worksheets.pdf"),
-        path: `Learn | More`,
-        text: `Latter Tracing`,
-        images: require("../images/Kindergarten.jpg")
-
-    },
-    {
-        button: require("../pdfs/printables/busy binder.pdf"),
-        path: `Learn | More`,
-        text: `Busy Binder`,
-        images: require("../images/busy brind.jpeg")
-
-    },
-    {
-        button: require("../pdfs/printables/ABC Poster.pdf"),
-        path: `Learn | More`,
-        text: `ABC Poster`,
-        images: require("../images/abc-poster-image.jpeg")
-
-    },
-    {
-        button: require("../pdfs/printables/colorful-number-shapes-colors-shapes-fash-cards.pdf"),
-        path: `Learn | More`,
-        text: `Colorful Flash Cards`,
-        images: require("../images/colorful-number-shapes-colors-shapes-fash-cards.png")
-
-    },
-    {
-        button: require("../pdfs/printables/Alphabet Flashcards.pdf"),
-        path: `Learn | More`,
-        text: `a-z Flash Cards`,
-        images: require("../images/a-z-flash-cards.png")
-
-    },
-    {
-        button: require("../pdfs/printables/Large Space Flashcards in Cute Colorful Illustrative Style.pdf"),
-        path: `Learn | More`,
-        text: `Illustrative Flash Cards`,
-        images: require("../images/Marsh.png")
-
-    },
-    {
-        button: require("../pdfs/printables/The planets Flashcards.pdf"),
-        path: `Learn | More`,
-        text: `Planets Flash Cards`,
-        images: require("../images/image.png")
-
-    },
-]
+{
+    "PrintableData": [
+      {
+        "button": "../pdfs/printables/A-Z tracing Alphabet Worksheets.pdf",
+        "path": "Learn | More",
+        "text": "Latter Tracing",
+        "images": "../images/Kindergarten.jpg"
+      },
+      {
+        "button": "../pdfs/printables/busy binder.pdf",
+        "path": "Learn | More",
+        "text": "Busy Binder",
+        "images": "../images/busy brind.jpeg"
+      },
+      {
+        "button": "../pdfs/printables/ABC Poster.pdf",
+        "path": "Learn | More",
+        "text": "ABC Poster",
+        "images": "../images/abc-poster-image.jpeg"
+      },
+      {
+        "button": "../pdfs/printables/colorful-number-shapes-colors-shapes-fash-cards.pdf",
+        "path": "Learn | More",
+        "text": "Colorful Flash Cards",
+        "images": "../images/colorful-number-shapes-colors-shapes-fash-cards.png"
+      },
+      {
+        "button": "../pdfs/printables/Alphabet Flashcards.pdf",
+        "path": "Learn | More",
+        "text": "a-z Flash Cards",
+        "images": "../images/a-z-flash-cards.png"
+      },
+      {
+        "button": "../pdfs/printables/Large Space Flashcards in Cute Colorful Illustrative Style.pdf",
+        "path": "Learn | More",
+        "text": "Illustrative Flash Cards",
+        "images": "../images/Marsh.png"
+      },
+      {
+        "button": "../pdfs/printables/The planets Flashcards.pdf",
+        "path": "Learn | More",
+        "text": "Planets Flash Cards",
+        "images": "../images/image.png"
+      }
+    ]
+  }

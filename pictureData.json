@@ -1,24 +1,22 @@
+{
+    "pictureData": [
+      {
+        "title": "Cognitive Skill Activities",
+        "images": [
+          "cat-eat-beans.jpg",
+          "cat-eat-beans.jpg",
+          "cat-eat-beans.jpg"
+        ]
+      },
 
-export const pictureData = [
-     {
-        title: "Cognitive Skill Activities",
-        images: [
-            require("../images/cat-eat-beans.jpg"),
-            require("../images/cat-eat-beans.jpg"), 
-            require("../images/cat-eat-beans.jpg"),
-  
+      {
+        "title": "Language Development Activities",
+        "images": [
+          "cat-eat-beans.jpg",
+          "cat-eat-beans.jpg",
+          "https://imgur.com/z6NpWFg.jpg",
+          "https://imgur.com/z6NpWFg.jpg"
         ]
-    },
-    {
-        title: "Language Development Activities",
-        images: [
-            require("../images/cat-eat-beans.jpg"),
-            require("../images/cat-eat-beans.jpg"),
-        "https://imgur.com/z6NpWFg.jpg",
-        "https://imgur.com/z6NpWFg.jpg"//
-            
-        ]
-    },
-   
-   
-];
+      }
+    ]
+}

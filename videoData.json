@@ -1,31 +1,32 @@
-
-export const videoData = [
-    {
-        title: "Rescue Animals",
-        embed: `<iframe src="https://www.instagram.com/reel/DATBj1JMb6_/embed" width="250" height="300" frameborder="0" scrolling="no" allowtransparency="true" allow="encrypted-media"></iframe>`
-    },
-    {
-        title: "Transferring Beans Using Spoon",
-        embed: `<iframe src="https://www.instagram.com/reel/C9fO_FQM1vi/embed" width="250" height="300" frameborder="0" scrolling="no" allowtransparency="true" allow="encrypted-media"></iframe>`
-    },
-    {
-        title: "Gross Motor",
-        embed: `<iframe src="https://www.instagram.com/reel/C92tG2DMfuB/embed" width="250" height="300" frameborder="0" scrolling="no" allowtransparency="true" allow="encrypted-media"></iframe>`
-    },
-    {
-        title: "Learning Shapes",
-        embed: `<iframe src="https://www.instagram.com/reel/C-fHUEGgnPz/embed" width="250" height="300" frameborder="0" scrolling="no" allowtransparency="true" allow="encrypted-media" allowfullscreen></iframe>`
-    },
-    {
-        title: "Number Recognition",
-        embed: `<iframe src="https://www.instagram.com/p/C9uwKexMWAA/embed" width="250" height="300" frameborder="0" scrolling="no" allowtransparency="true" allow="encrypted-media" title="Instagram Post"></iframe>`
-    },
-    {
-        title: "Two-Piece Puzzles",
-        embed: `<iframe src="https://www.instagram.com/reel/C8Hwx-KMpw5/embed" width="250" height="300" frameborder="0" scrolling="no" allowtransparency="true" allow="encrypted-media" allowfullscreen></iframe>`
-    },
-    {
-        title: "Visiting Zoo",
-        embed: `<iframe src="https://www.instagram.com/reel/C9utnDwMCZe/embed" width="250" height="300" frameBorder="0" scrolling="no" allowTransparency="true" allow="encrypted-media"></iframe>`
-    }
-];
+{
+    "videoData": [
+      {
+        "title": "Rescue Animals",
+        "embed": "<iframe src=\"https://www.instagram.com/reel/DATBj1JMb6_/embed\" width=\"250\" height=\"300\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
+      },
+      {
+        "title": "Transferring Beans Using Spoon",
+        "embed": "<iframe src=\"https://www.instagram.com/reel/C9fO_FQM1vi/embed\" width=\"250\" height=\"300\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
+      },
+      {
+        "title": "Gross Motor",
+        "embed": "<iframe src=\"https://www.instagram.com/reel/C92tG2DMfuB/embed\" width=\"250\" height=\"300\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
+      },
+      {
+        "title": "Learning Shapes",
+        "embed": "<iframe src=\"https://www.instagram.com/reel/C-fHUEGgnPz/embed\" width=\"250\" height=\"300\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\" allow=\"encrypted-media\" allowfullscreen></iframe>"
+      },
+      {
+        "title": "Number Recognition",
+        "embed": "<iframe src=\"https://www.instagram.com/p/C9uwKexMWAA/embed\" width=\"250\" height=\"300\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\" allow=\"encrypted-media\" title=\"Instagram Post\"></iframe>"
+      },
+      {
+        "title": "Two-Piece Puzzles",
+        "embed": "<iframe src=\"https://www.instagram.com/reel/C8Hwx-KMpw5/embed\" width=\"250\" height=\"300\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\" allow=\"encrypted-media\" allowfullscreen></iframe>"
+      },
+      {
+        "title": "Visiting Zoo",
+        "embed": "<iframe src=\"https://www.instagram.com/reel/C9utnDwMCZe/embed\" width=\"250\" height=\"300\" frameBorder=\"0\" scrolling=\"no\" allowTransparency=\"true\" allow=\"encrypted-media\"></iframe>"
+      }
+    ]
+  }

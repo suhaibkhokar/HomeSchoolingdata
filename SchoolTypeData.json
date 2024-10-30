@@ -1,35 +1,24 @@
-export const schooleTypeData = [
-  {
-    image: require("../images/prek-student.png"),
-    title: "Preschool",
-    description: `Preschool is an early childhood educational program designed for children typically 
-    between the ages of 2 and 4, before they enter formal schooling (kindergarten). It provides young children with a structured environment where they can learn basic social,
-     emotional, cognitive, and motor skills through play-based activities.`,
-  },
-  {
-    image: require("../images/d.jpeg"),
-    title: "Elementary",
-    description: `From becoming super readers to exploring historical events and
-              learning about earth science, Home Schooling with Muhammad bin Umer's elementary
-              curriculum offers kids an entertaining way to learn core academics
-              while becoming self-directed learners and critical thinkers.`,
-  },
-  {
-    image: require("../images/m.jpeg"),
-    title: "Middle School",
-    description: `Home Schooling with Muhammad bin Umer's unique middle school curriculum combines
-    humanities, STEM, social studies and arts to tap into students’
-    natural curiosity while satisfying their growing desire to direct
-    their own learning and make relevant connections between their
-    homes and the world.`,
-  },
-  {
-    image: require("../images/z.jpeg"),
-    title: "High School",
-    description: `From diving into classic literature to mastering advanced
-              mathematics and diving deep into scientific exploration,
-              Home Schooling with Muhammad bin Umer's high school curriculum empowers students to excel
-              academically while preparing them for college, careers, and
-              beyond.`,
-  },
-];
+{
+  "schooleTypeData": [
+    {
+      "image": "../images/prek-student.png",
+      "title": "Preschool",
+      "description": "Preschool is an early childhood educational program designed for children typically between the ages of 2 and 4, before they enter formal schooling (kindergarten). It provides young children with a structured environment where they can learn basic social, emotional, cognitive, and motor skills through play-based activities."
+    },
+    {
+      "image": "../images/d.jpeg",
+      "title": "Elementary",
+      "description": "From becoming super readers to exploring historical events and learning about earth science, Home Schooling with Muhammad bin Umer's elementary curriculum offers kids an entertaining way to learn core academics while becoming self-directed learners and critical thinkers."
+    },
+    {
+      "image": "../images/m.jpeg",
+      "title": "Middle School",
+      "description": "Home Schooling with Muhammad bin Umer's unique middle school curriculum combines humanities, STEM, social studies and arts to tap into students’ natural curiosity while satisfying their growing desire to direct their own learning and make relevant connections between their homes and the world."
+    },
+    {
+      "image": "../images/z.jpeg",
+      "title": "High School",
+      "description": "From diving into classic literature to mastering advanced mathematics and diving deep into scientific exploration, Home Schooling with Muhammad bin Umer's high school curriculum empowers students to excel academically while preparing them for college, careers, and beyond."
+    }
+  ]
+}
