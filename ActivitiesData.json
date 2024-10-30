@@ -1,0 +1,215 @@
+export const ActivitiesData = [
+    {
+        title: "Fine Motor Activities",
+        description: `Here are some fun fine motor activities for preschoolers:`,
+        activityDetails: [
+        { title: 'Playdough Shapes', details: 'Children can use playdough...' },
+        { title: 'Cutting Practice', details: 'Offer child-safe scissors...' },
+
+        {
+            title: 'Puzzles', details: "Age-appropriate puzzles help improve fine motor control while engaging children's problem-solving skills."
+        },
+        {
+            title: 'Clothespin Pinching',
+            details: "Let children practice squeezing and pinching clothespins onto a string or edge of a box. This helps build finger strength."
+        },
+        {
+            title: 'Paper Tearing',
+            details: "Encourage children to tear paper into strips or shapes. It's a great way to strengthen hand muscles and improve coordination."
+        },
+        {
+            title: 'Pom-Pom Transfer',
+            details: "Using a spoon, children can transfer pom-poms from one bowl to another. This enhances hand stability and grip control."
+        },
+        {
+            title: 'Finger Painting',
+            details: "Let kids paint using their fingers instead of brushes. It's a fun, sensory way to develop hand dexterity while being creative."
+        },
+        {
+            title: 'Hole Punching',
+            details: "Provide a hole puncher and paper for children to punch holes. It's an excellent way to strengthen hand muscles."
+        },
+        {
+            title: 'Peeling Tape',
+            details: "Stick pieces of masking tape on a table and let kids peel them off. This helps with finger control and grip."
+        },
+        {
+            title: 'Dot Marker Art',
+            details: "Give kids dot markers to create art on a page. It requires control and improves hand strength as they press and dot."
+        },
+        {
+            title: 'Pipe Cleaner Creations',
+            details: "Let kids bend and twist pipe cleaners to create shapes, letters, or simple objects. This develops fine motor strength and creativity."
+        },
+        {
+            title: 'Threading Pasta',
+            details: "Let children thread dry pasta onto a string or pipe cleaner. It’s great for hand-eye coordination and fine motor precision."
+        },
+        {
+            title: 'Sponge Squeezing',
+            details: "In a water play activity, let kids squeeze water out of sponges. This helps strengthen their hand muscles."
+        },
+        {
+            title: 'Cat Eats Beans',
+            details: "In this imaginative fine motor activity, children pretend to feed a toy cat beans using a spoon. The act of scooping and carefully feeding the 'cat' enhances hand-eye coordination, grip strength, and control. It's a fun way to develop fine motor skills while engaging in pretend play."
+        },
+        {
+            title: 'Peek-a-Boo',
+            details: "In this fine motor activity, children use a toy hammer to tap objects that 'pop up' in a peek-a-boo style game. The hammering action helps develop hand-eye coordination, precision, and grip strength, making it a playful and engaging way to build fine motor skills."
+        },
+
+
+        ],
+       
+            images: [
+            
+                "https://imgur.com/vLdDz5g.jpg",  
+            
+                "https://imgur.com/z6NpWFg.jpg"// Direct image link
+                // Remove the dynamic import attempt for the Imgur URL
+            ],
+        
+        videos: [
+
+
+
+            {
+                title: "Rescue Animals ",
+                embed: `<iframe src="https://player.vimeo.com/video/1023902461?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="300" height="300" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Here are 10 fun activities for 1-2 year-olds to boost their fine and gross motor skills!"></iframe>`,
+
+            },
+            {
+                title: "Transffering beans Using spoon",
+                embed: `<iframe src="https://player.vimeo.com/video/1023902461?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="300" height="300" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Here are 10 fun activities for 1-2 year-olds to boost their fine and gross motor skills!"></iframe>`,
+
+            }
+
+        ]
+    },
+    {
+        title: "Gross Motor Activities",
+        description: `Obstacle Course: Set up a simple indoor or outdoor course using chairs, pillows, and tunnels for jumping, crawling, and balancing.
+
+Ball Games: Throwing, catching, and kicking balls to enhance coordination.
+
+Dancing: Play music and let children move to the rhythm, promoting physical activity.`,
+        images: [
+            require("../images/cat-eat-beans.jpg"),
+            require("../images/peeka-boo.jpg")
+        ],
+        videos: [
+            {
+                title: "Gross motor ",
+                embed: `  <iframe 
+                    src="https://www.instagram.com/reel/C92tG2DMfuB/embed" 
+                    width="250" 
+                    height="300" 
+                    frameborder="0" 
+                    scrolling="no" 
+                    allowtransparency="true" 
+                    allow="encrypted-media">
+                </iframe>
+                `,
+            }
+
+        ],
+        activityDetails: []
+    },
+    {
+        title: "Cognitive Skill Activities",
+        description: `Color Sorting: Use colored objects like blocks or buttons and have children sort them by color.
+
+Number Matching: Pair objects with corresponding numbers (e.g., 3 cars with the number 3).
+
+Puzzles: Age-appropriate puzzles to improve problem-solving skills.`,
+        images: [
+            require("../images/cat-eat-beans.jpg"),
+            require("../images/peeka-boo.jpg")
+        ],
+        videos: [
+            {
+                title: "Learning shapes ",
+                embed:
+                    `<iframe src="https://www.instagram.com/reel/C-fHUEGgnPz/embed" width="250" height="300" frameborder="0" scrolling="no" allowtransparency="true" allow="encrypted-media" allowfullscreen></iframe>`,
+
+            },
+            {
+                title: "Number recognition",
+                embed: `<iframe src="https://www.instagram.com/p/C9uwKexMWAA/embed" width="250" height="300" frameborder="0" scrolling="no" allowtransparency="true" allow="encrypted-media" title="Instagram Post"></iframe>`
+            },
+            {
+                title: "2 piece puzzles.",
+                embed: `<iframe 
+    src="https://www.instagram.com/reel/C8Hwx-KMpw5/embed" 
+    width="250" 
+    height="300" 
+ 
+</iframe>`
+            }
+        ],
+        activityDetails: []
+    },
+    {
+        title: "Language Development Activities",
+        description: `Story Time: Read short stories aloud and ask questions to improve comprehension.
+
+Alphabet Games: Identify and match letters with objects (e.g., A for apple).
+
+Rhyming Songs: Sing nursery rhymes and encourage children to learn and repeat words.`,
+        images: [
+            require("../images/cat-eat-beans.jpg"),
+            require("../images/peeka-boo.jpg")
+        ],
+        videos: [
+            {
+                title: "Learning shapes ",
+
+            }
+        ],
+        activityDetails: []
+    },
+    {
+        title: "Gross Motor Skill",
+        description: `We start our exciting zoo adventure with our 1.6-year-old! From seeing the first animals to exploring the park, it’s a day full of wonder and joy..
+`,
+        images: [
+            require("../images/cat-eat-beans.jpg"),
+            require("../images/peeka-boo.jpg") // اپنی تصاویر کی URL یہاں شامل کریں
+
+        ],
+        videos: [
+            {
+                title: "Visiting zoo ",
+                embed: `
+                <iframe src="https://www.instagram.com/reel/C9utnDwMCZe/embed" width="250" height="300" frameBorder="0" scrolling="no" allowTransparency="true" allow="encrypted-media"></iframe>
+            `,
+            }
+        ],
+        activityDetails: []
+    },
+
+
+    {
+        title: "Sensory Activities",
+        description: `Sensory Bins: Fill bins with rice, sand, or water, and let children explore with their hands.
+
+    Water Play: Simple water pouring or floating objects in a shallow container.
+
+    Texture Exploration: Offer items with different textures like sponges, fabric, or bubble wrap for sensory discovery.
+`,
+        images: [
+            require("../images/cat-eat-beans.jpg"),
+            require("../images/peeka-boo.jpg") // اپنی تصاویر کی URL یہاں شامل کریں
+
+        ],
+        videos: [
+            {
+                title: "Learning shapes ",
+                embed: `<iframe src="https://www.instagram.com/reel/C-fHUEGgnPz/embed" width="400" height="500" frameborder="0" scrolling="no" allowtransparency="true" allow="encrypted-media" allowfullscreen></iframe>`
+
+            }
+        ],
+        activityDetails: []
+    }
+
+];
